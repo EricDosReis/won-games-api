@@ -1,6 +1,6 @@
 # Won Games - API
 
-API made with Strapi to seed the data our NextJS Store. [Landing Page project](https://github.com/EricDosReis/won-games-client).
+API made with Strapi to seed the data our NextJS Store. [Won Games Client repository](https://github.com/EricDosReis/won-games-client).
 
 ## Requirements
 

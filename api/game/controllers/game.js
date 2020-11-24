@@ -5,4 +5,10 @@
  * to customize this controller
  */
 
-module.exports = {};
+module.exports = {
+  populate: (ctx) => {
+    console.info('Starting to populate...')
+
+    ctx.send('Finished populating!')
+  }
+};
